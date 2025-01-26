@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extension-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-08 16:40+0000\n"
+"POT-Creation-Date: 2025-01-26 18:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: data/com.mattjakeman.ExtensionManager.desktop.in.in:3
+#: data/com.mattjakeman.ExtensionManager.desktop.in.in:2
 #: data/com.mattjakeman.ExtensionManager.metainfo.xml.in.in:6
 #: src/exm-window.blp:7
 msgid "Extension Manager"
 msgstr ""
 
-#: data/com.mattjakeman.ExtensionManager.desktop.in.in:12
+#: data/com.mattjakeman.ExtensionManager.desktop.in.in:11
 msgid "Manage GNOME Shell Extensions"
 msgstr ""
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #. Make sure to leave the original strings and add your translations afterwards, so that users can search both in English and your language.
-#: data/com.mattjakeman.ExtensionManager.desktop.in.in:15
+#: data/com.mattjakeman.ExtensionManager.desktop.in.in:14
 msgid "extension;manager;shell;"
 msgstr ""
 
@@ -119,14 +119,14 @@ msgstr ""
 msgid "Connection Error"
 msgstr ""
 
-#: src/exm-browse-page.c:196 src/exm-comment-dialog.c:159
+#: src/exm-browse-page.c:196 src/exm-comment-dialog.c:177
 #: src/exm-detail-view.c:372 src/exm-upgrade-assistant.c:374
 msgid ""
 "Check <a href='https://status.gnome.org/'>GNOME infrastructure status</a> "
 "and try again later"
 msgstr ""
 
-#: src/exm-browse-page.c:198 src/exm-comment-dialog.c:161
+#: src/exm-browse-page.c:198 src/exm-comment-dialog.c:179
 #: src/exm-detail-view.c:374 src/exm-upgrade-assistant.c:376
 msgid "Check your network status and try again"
 msgstr ""
@@ -159,7 +159,7 @@ msgstr ""
 msgid "Enlarge Image"
 msgstr ""
 
-#: src/exm-detail-view.blp:171 src/exm-extension-row.blp:109
+#: src/exm-detail-view.blp:171 src/exm-extension-row.blp:99
 msgid "Description"
 msgstr ""
 
@@ -259,19 +259,19 @@ msgid ""
 "or the lock screen"
 msgstr ""
 
-#: src/exm-extension-row.blp:144 src/exm-info-bar.blp:41
+#: src/exm-extension-row.blp:107 src/exm-info-bar.blp:41
 msgid "Version"
 msgstr ""
 
-#: src/exm-extension-row.blp:175
+#: src/exm-extension-row.blp:115
 msgid "Error"
 msgstr ""
 
-#: src/exm-extension-row.blp:215
+#: src/exm-extension-row.blp:134
 msgid "See Details"
 msgstr ""
 
-#: src/exm-extension-row.blp:225
+#: src/exm-extension-row.blp:144
 msgid "Remove…"
 msgstr ""
 
